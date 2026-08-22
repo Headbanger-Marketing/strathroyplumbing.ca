@@ -1,2 +1,25 @@
 # Strathroy Plumbing
-HVAC services in Ontario.
+
+> Strathroy Plumbing is a local HVAC company serving Strathroy, Middlesex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 708-7117  |  Email: contact@strathroyplumbing.ca  |  Website: https://strathroyplumbing.ca
+
+## Key pages
+
+- [Home](https://strathroyplumbing.ca/): Strathroy Plumbing homepage with service overview and FAQ
+- [About](https://strathroyplumbing.ca/about/): About the company and service area
+- [Contact](https://strathroyplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://strathroyplumbing.ca/services/water-heaters/): Water Heaters in Strathroy, Ontario
+- [Drain Cleaning](https://strathroyplumbing.ca/services/drain-cleaning/): Drain Cleaning in Strathroy, Ontario
+- [Repiping](https://strathroyplumbing.ca/services/repiping/): Repiping in Strathroy, Ontario
+- [Fixtures & Toilets](https://strathroyplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Strathroy, Ontario
+- [Leak Detection & Repair](https://strathroyplumbing.ca/services/leak-detection/): Leak Detection & Repair in Strathroy, Ontario
+- [Sump Pumps & Backwater](https://strathroyplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Strathroy, Ontario
+- [Water Softeners & Filtration](https://strathroyplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Strathroy, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Strathroy are answered on the homepage.
